@@ -1,7 +1,7 @@
 Source: tvheadend
 Section: video
 Priority: extra
-Maintainer: Michael Marley <michael@michaelmarley.com>
+Maintainer: Arnold Schiller <schiller@babsi.de>
 Build-Depends: debhelper (>= 10~), pkg-config, gettext, libavahi-client-dev, libssl-dev | libssl1.0-dev, zlib1g-dev, wget, bzip2, git-core, liburiparser-dev, python3-all, python3-requests, ca-certificates, libx264-dev, libx265-dev, libvpx-dev, libfdk-aac-dev, libopus-dev, libhdhomerun-dev, libsystemd-dev, libdbus-1-dev, libpcre2-dev | libpcre3-dev, libdvbcsa-dev, libavfilter-dev, libswresample-dev, libavresample-dev, libswscale-dev, libavformat-dev, libavcodec-dev, libavutil-dev, libva-dev, markdown, pngquant
 Standards-Version: 3.7.3
 

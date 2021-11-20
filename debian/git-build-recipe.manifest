@@ -1,3 +1,1 @@
-# git-build-recipe format 0.4 deb-version 4.3.0~pre+202111152353-0~built202111160402~git2efe90cdc
-lp:~mamarley/tvheadend/+git/trunk git-commit:2efe90cdcf74fdc4179692d283cf46c85e1cf681
-merge master-debian-lp lp:~mamarley/+git/tvheadend git-commit:6eac5b903c09e40dcb44e8637fa3b5a0b62ae801
+# git-build-tvheadend format 0.4 deb-version 4.3.0~202111160402
