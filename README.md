@@ -1,6 +1,7 @@
 # tvheadend
 tvheadend_4.3.0~202111160402.1
 Next try to get a working autobuild for my Raspberry 4b and Raspbian bullseye 
+./Autobuild.sh bullseye-armhf
 
 
 ![TVHeadend Logo](https://github.com/tvheadend/tvheadend/raw/master/src/webui/static/img/satip-icon120.png)
